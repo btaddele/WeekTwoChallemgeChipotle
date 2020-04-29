@@ -1,0 +1,12 @@
+"chpotle challenge" 
+-create data types and variable to hold the array add elements in to the array
+-Import Random and Scanner class to obtain user input and to print the input on the screen.
+-create a while loop to run the code for a sprcific number of time, increment the variable in the while loop by 1
+-burrito price starts at 3, so create a variable equal to 3 inside the while loop
+-set a variable that is equal to a random number from the elements starting point number to the largest number 
+-if the random number is less than the variable length create a variable to store the value 
+-else print noting on the screen
+-if the variable that we store our value is 'none' or prints nothing on the screen add 0 to price
+-else add 0.5 to price
+-repeat all the above instructions to all the variables 
+-print 
