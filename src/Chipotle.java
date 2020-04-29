@@ -12,7 +12,7 @@ public class Chipotle {
         String rice[] = {"white", "brown", "none", "all"};
         String meat[] = {"chicken", "steak", "carnidas", "chorizo", "sofritas", "veggie", "meat", "none", "all"};
         String beans[] = {"pinto", "black", "none", "all"};
-        String salsa[] = {"mild", "medium", "hot", "none", "all"};
+        String salsa[] = {"mild sauce", "medium sause", "hot sauce", "none sauce", "all sause"};
         String veggies[] = {" lettuce", "fajita", "veggies", "none", "all"};
         String cheese[] = {"cheese", "none"};
         String guac [] = {"guac", "none"};
